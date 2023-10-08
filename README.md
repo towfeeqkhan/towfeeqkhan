@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a highly skilled web developer with expertise 
 
 Here's a glimpse of my key skills and areas of expertise:
 
-- **Programming Languages:** I'm well-versed in several programming languages, including but not limited to JavaScript, Python, C. This versatility allows me to choose the right tool for the job.
+- **Programming Languages:** I'm well-versed in several programming languages, including but not limited to JavaScript, Python and C. This versatility allows me to choose the right tool for the job.
 
 - **Frontend Development:** I have a strong grasp of HTML, CSS, and JavaScript, and I excel at creating responsive and user-friendly frontend interfaces. I'm also familiar with popular frontend libraries and frameworks like React, Next. js, and Bootstrap.
 
@@ -25,7 +25,7 @@ Here's a glimpse of my key skills and areas of expertise:
 If you'd like to collaborate, have questions, or simply want to connect, you can reach out to me through the following channels:
 
 - **Email:** [ask.towfeeq@gmail.com](mailto:ask.towfeeq@gmail.com)
-- **LinkedIn:** [towfeeq-khan](https://linkedin.com/towfeeq-khan)
+- **LinkedIn:** [towfeeq-khan](https://in.linkedin.com/in/towfeeq-khan)
 
 I'm always open to new opportunities and collaborations, so don't hesitate to get in touch.
 
