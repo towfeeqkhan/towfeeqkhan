@@ -13,7 +13,7 @@ Here's a glimpse of my key skills and areas of expertise:
 
 - **Backend Development:** My backend development skills include database design, server-side scripting, and API development. I'm experienced with technologies like Node.js, Express, Django and more.
 
-- **Database Management:** I'm proficient in working with various databases, such as SQL databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB). I can design efficient database structures and optimize queries.
+- **Database Management:** I'm proficient in working with various databases, such as SQL databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB). I can design efficient database structures and optimize queries.
 
 - **Version Control:** I'm well-versed in using Git and GitHub for version control and collaborative development. I follow best practices for branching, merging, and resolving conflicts.
 
