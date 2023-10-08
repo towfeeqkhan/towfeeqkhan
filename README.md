@@ -25,7 +25,7 @@ Here's a glimpse of my key skills and areas of expertise:
 If you'd like to collaborate, have questions, or simply want to connect, you can reach out to me through the following channels:
 
 - **Email:** [ask.towfeeq@gmail.com](mailto:ask.towfeeq@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/towfeeq-khan)
+- **LinkedIn:** [towfeeq-khan](https://linkedin.com/towfeeq-khan)
 
 I'm always open to new opportunities and collaborations, so don't hesitate to get in touch.
 
