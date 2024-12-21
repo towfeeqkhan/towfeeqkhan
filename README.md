@@ -1,6 +1,6 @@
-### Hi, I'm Towfeeq 👋
+## Hi, I'm Towfeeq 👋
 
-## JS/React Developer
+### JS/React Developer
 
 ## Contact
 
