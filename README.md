@@ -1,2 +1,79 @@
 
-![Developer(banner)](https://github.com/user-attachments/assets/854f0417-7865-4b5d-a152-c8ba7100d8d1)
+<img width="1536" height="501" alt="github-profile-banner" src="https://github.com/user-attachments/assets/7daa537f-948f-4294-b2d2-88c3797982e6" />
+
+
+
+# Hi, I'm Towfeeq! 👋
+
+
+A passionate frontend developer who enjoys building modern, user-friendly web applications. I love turning ideas into reality with clean code and smooth user experiences.
+
+
+## My Projects
+
+<table>
+ <thead>
+  <tr>
+   <th>Project</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><a href="https://github.com/">FlashCode</a></td>
+   <td>...</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/">SnapCode</a></td>
+   <td>...</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/">FlexUI</a></td>
+   <td>...</td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/">SSM Papers</a></td>
+   <td>...</td>
+  </tr>
+ </tbody>
+</table>
+
+
+
+<h2 align="left">Skills:</h2>
+<p align="left"> 
+  <!-- ReactJS -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+
+  <!-- Tailwind -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+
+  <!-- Framer Motion -->
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> 
+    <img width="40" height="40" alt="framer-logo" src="https://github.com/user-attachments/assets/306c90f3-6e53-4e8b-be71-e80729171c72" /> 
+  </a> 
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+</p>
