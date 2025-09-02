@@ -20,20 +20,32 @@ A passionate frontend developer who enjoys building modern, user-friendly web ap
  </thead>
  <tbody>
   <tr>
-   <td><a href="https://github.com/">FlashCode</a></td>
-   <td>...</td>
+   <td><a href="https://flashcode-web.vercel.app/">FlashCode</a></td>
+   <td>AI-powered web app builder similar to Bolt and Cursor, using Gemini under the hood.</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/">SnapCode</a></td>
-   <td>...</td>
+   <td><a href="https://snapcode-web.vercel.app/">SnapCode</a></td>
+   <td>Create and share beautiful screenshots of your code.</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/">FlexUI</a></td>
-   <td>...</td>
+   <td><a href="https://flexui-web.vercel.app/">FlexUI</a></td>
+   <td>Animated React component library built with Tailwind and Framer Motion.</td>
   </tr>
   <tr>
-   <td><a href="https://github.com/">SSM Papers</a></td>
-   <td>...</td>
+   <td><a href="https://www.ssmpapers.in">SSM Papers</a></td>
+   <td>SSM Papers app offers previous year question papers for internal and external exams.</td>
+  </tr>
+  <tr>
+   <td><a href="https://ytmaterial.netlify.app/">Youtube</a></td>
+   <td>Modern youtube clone, browse or search any youtube videos.</td>
+  </tr>
+  <tr>
+   <td><a href="https://www.myvalley.in/">My Valley</a></td>
+   <td>My Valley is an online tour and travel company based in Srinagar Kashmir.</td>
+  </tr>
+  <tr>
+   <td><a href="https://www.zahidtourandtravels.com/">Zahid Travels</a></td>
+   <td>Zahid tour and travels offer Kashmir tour packages.</td>
   </tr>
  </tbody>
 </table>
