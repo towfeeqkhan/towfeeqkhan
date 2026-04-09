@@ -4,14 +4,14 @@
 
 
 
-# Hi, I'm Towfeeq! 👋
+# Hi, I'm Towfeeq 👋
 
 
-Computer Science undergrad and Full-stack developer passionate about building fast, scalable and production-ready applications.
+Computer Science undergrad and Full stack developer passionate about building fast, scalable and production ready applications.
 
-- ⚡ Tech Stack: MERN | PERN | TypeScript
-- 🚀 Currently building AI-powered SaaS products
-- 📚 Exploring: Next.js & Generative AI
+- ⚡ Tech Stack: MERN | PERN | Next.js | TypeScript | React Native
+- 🚀 Currently building AI powered SaaS products
+- 📚 Exploring: GenAI
 
 
 ## 🚀 My Projects
@@ -26,11 +26,15 @@ Computer Science undergrad and Full-stack developer passionate about building fa
  <tbody>
   <tr>
    <td><a href="https://pixelthumb.vercel.app" target="_blank"><strong>PixelThumb</strong></a></td>
-   <td>AI-powered thumbnail generator that helps creators produce high-converting, professional thumbnails in seconds.</td>
+   <td> Full stack AI powered thumbnail generator that helps creators generate high quality, professional thumbnails in seconds.</td>
+  </tr>
+  <tr>
+   <td><a href="https://jobhunt-board.vercel.app" target="_blank"><strong>JobHunt</strong></a></td>
+   <td>JobHunt is a Full stack AI powered job application tracker. It helps users manage their application pipeline in a Kanban style board.</td>
   </tr>
   <tr>
    <td><a href="https://blogapp-nine-mauve.vercel.app" target="_blank"><strong>BlogApp</strong></a></td>
-   <td>Full-stack MERN blog platform with authentication, post management, and dynamic content rendering.</td>
+   <td>Full stack MERN blog platform with authentication, post management, and dynamic content rendering.</td>
   </tr>
   <tr>
    <td><a href="https://snapcode-web.vercel.app" target="_blank"><strong>SnapCode</strong></a></td>
