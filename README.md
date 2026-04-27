@@ -9,7 +9,7 @@
 
 Computer Science undergrad and Full stack developer passionate about building fast, scalable and production ready applications.
 
-- ⚡ Tech Stack: MERN | PERN | Next.js | TypeScript | React Native
+- ⚡ Tech Stack: MERN | PERN | Next.Js | TypeScript | React Native
 - 🚀 Currently building AI powered SaaS products
 - 📚 Exploring: GenAI
 
@@ -24,6 +24,10 @@ Computer Science undergrad and Full stack developer passionate about building fa
   </tr>
  </thead>
  <tbody>
+  <tr>
+   <td><a href="https://www.bananapromptgallery.com" target="_blank"><strong>Banana Prompt Gallery</strong></a></td>
+   <td>Banana Prompt Gallery is a Full stack NextJs app where users can Browse thousands of trending Nano Banana prompts, copy them instantly, and generate stunning, high quality AI images with Google Gemini in seconds</td>
+  </tr>
   <tr>
    <td><a href="https://pixelthumb.vercel.app" target="_blank"><strong>PixelThumb</strong></a></td>
    <td> Full stack AI powered thumbnail generator that helps creators generate high quality, professional thumbnails in seconds.</td>
@@ -74,11 +78,12 @@ Computer Science undergrad and Full stack developer passionate about building fa
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer\&logoColor=blue)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
