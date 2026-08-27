@@ -33,6 +33,7 @@ I build fast, scalable, production-ready web applications — from clean REST AP
 
 | Project | Description |
 |---------|-------------|
+| [**Lumina AI**](https://lumina-ai-chat.vercel.app) | Lumina AI is a thoughtful, fast AI chat experience. It combines streaming responses, persistent chat history, markdown rendering, and a focused interface. |
 | [**AgentBrowser**](https://github.com/towfeeqkhan/AgentBrowser) | AgentBrowser is a real-time browser automation tool that enables AI agents to see, understand, and interact with any web page via MCP. |
 | [**Banana Prompt Gallery**](https://www.bananapromptgallery.com) | Banana Prompt Gallery is a Full stack NextJs app where users can Browse thousands of trending Nano Banana prompts, copy them instantly, and generate stunning, high quality AI images with Google Gemini in seconds. |
 | [**PixelThumb**](https://pixelthumb.vercel.app) | Full stack AI powered thumbnail generator that helps creators generate high quality, professional thumbnails in seconds. |
